@@ -12,8 +12,8 @@ def load_model():
     df['Education'] = df['Education'].str.strip()
     df["Geography"] = df["Geography"].replace({"British Columbia": 0, "Ontario": 1})
     df["Education"] = df["Education"].replace({"Bachelor's degree": 0, "High school graduate": 1}).astype('int64')
-    df['Year_Sex_interaction'] = df['Year'] * df['M_(1)_or_F_(0)']
-    X = df[["Year", "Geography", "Education", "M_(1)_or_F_(0)", "Year_Sex_interaction"]]
+    
+    X = df[["Year", "Geography", "Education", "M_(1)_or_F_(0)"]]
     y = df["Weekly_Wage"]
     model = sm.OLS(y, sm.add_constant(X)).fit()
     return model
@@ -40,7 +40,7 @@ def app():
 
     newdata["Geography"] = newdata["Geography"].replace({"British Columbia": 0, "Ontario": 1})
     newdata["Education"] = newdata["Education"].replace({"Bachelor's degree": 0, "High school graduate": 1})
-    newdata["Year_Sex_interaction"] = newdata["Year"] * newdata["M_(1)_or_F_(0)"]
+    
 
     # Make prediction using the model
     prediction = model.predict(newdata)
