@@ -46,7 +46,7 @@ def app():
     prediction = model.predict(newdata)
 
     # Display prediction
-    st.write("Predicted weekly wage:", round(prediction[0]-5.26, 2))
+    st.write("Predicted weekly wage:", round(prediction[0], 2))
 
 if __name__ == "__main__":
     app()
