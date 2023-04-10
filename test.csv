@@ -1,0 +1,185 @@
+Year,Geography,Education,M_(1)_or_F_(0),Weekly_Wage
+1997,Ontario,   High school graduate,1,713.45
+1997,Ontario,   High school graduate,0,549.77
+1997,Ontario,      Bachelor's degree,1,977.95
+1997,Ontario,      Bachelor's degree,0,810.99
+1997,British Columbia,   High school graduate,1,766.61
+1997,British Columbia,   High school graduate,0,571.72
+1997,British Columbia,      Bachelor's degree,1,917.8
+1997,British Columbia,      Bachelor's degree,0,748.11
+1998,Ontario,   High school graduate,1,723.57
+1998,Ontario,   High school graduate,0,548.91
+1998,Ontario,      Bachelor's degree,1,947.09
+1998,Ontario,      Bachelor's degree,0,788.97
+1998,British Columbia,   High school graduate,1,771.78
+1998,British Columbia,   High school graduate,0,574.32
+1998,British Columbia,      Bachelor's degree,1,913.8
+1998,British Columbia,      Bachelor's degree,0,751.64
+1999,Ontario,   High school graduate,1,743.7
+1999,Ontario,   High school graduate,0,557.07
+1999,Ontario,      Bachelor's degree,1,997.3
+1999,Ontario,      Bachelor's degree,0,821.83
+1999,British Columbia,   High school graduate,1,777.88
+1999,British Columbia,   High school graduate,0,582.21
+1999,British Columbia,      Bachelor's degree,1,947.27
+1999,British Columbia,      Bachelor's degree,0,771.81
+2000,Ontario,   High school graduate,1,774.51
+2000,Ontario,   High school graduate,0,574.56
+2000,Ontario,      Bachelor's degree,1,1043.81
+2000,Ontario,      Bachelor's degree,0,846.56
+2000,British Columbia,   High school graduate,1,799.38
+2000,British Columbia,   High school graduate,0,573.51
+2000,British Columbia,      Bachelor's degree,1,949.01
+2000,British Columbia,      Bachelor's degree,0,765.76
+2001,Ontario,   High school graduate,1,798.01
+2001,Ontario,   High school graduate,0,589.16
+2001,Ontario,      Bachelor's degree,1,1070.65
+2001,Ontario,      Bachelor's degree,0,853.83
+2001,British Columbia,   High school graduate,1,801.64
+2001,British Columbia,   High school graduate,0,599.02
+2001,British Columbia,      Bachelor's degree,1,976.17
+2001,British Columbia,      Bachelor's degree,0,823.71
+2002,Ontario,   High school graduate,1,801.35
+2002,Ontario,   High school graduate,0,611.55
+2002,Ontario,      Bachelor's degree,1,1086.57
+2002,Ontario,      Bachelor's degree,0,879.1
+2002,British Columbia,   High school graduate,1,827.84
+2002,British Columbia,   High school graduate,0,642.41
+2002,British Columbia,      Bachelor's degree,1,1041.27
+2002,British Columbia,      Bachelor's degree,0,837.33
+2003,Ontario,   High school graduate,1,809.99
+2003,Ontario,   High school graduate,0,621.55
+2003,Ontario,      Bachelor's degree,1,1095.07
+2003,Ontario,      Bachelor's degree,0,911.67
+2003,British Columbia,   High school graduate,1,839.93
+2003,British Columbia,   High school graduate,0,643.06
+2003,British Columbia,      Bachelor's degree,1,1004.98
+2003,British Columbia,      Bachelor's degree,0,870.08
+2004,Ontario,   High school graduate,1,839.29
+2004,Ontario,   High school graduate,0,633.49
+2004,Ontario,      Bachelor's degree,1,1140.89
+2004,Ontario,      Bachelor's degree,0,920.77
+2004,British Columbia,   High school graduate,1,817.18
+2004,British Columbia,   High school graduate,0,618.34
+2004,British Columbia,      Bachelor's degree,1,1029.67
+2004,British Columbia,      Bachelor's degree,0,890.73
+2005,Ontario,   High school graduate,1,874.51
+2005,Ontario,   High school graduate,0,678.61
+2005,Ontario,      Bachelor's degree,1,1128.56
+2005,Ontario,      Bachelor's degree,0,945.03
+2005,British Columbia,   High school graduate,1,863.87
+2005,British Columbia,   High school graduate,0,646.93
+2005,British Columbia,      Bachelor's degree,1,1057.2
+2005,British Columbia,      Bachelor's degree,0,861.56
+2006,Ontario,   High school graduate,1,868.62
+2006,Ontario,   High school graduate,0,671.47
+2006,Ontario,      Bachelor's degree,1,1197.07
+2006,Ontario,      Bachelor's degree,0,990.88
+2006,British Columbia,   High school graduate,1,891.72
+2006,British Columbia,   High school graduate,0,660.56
+2006,British Columbia,      Bachelor's degree,1,1102.03
+2006,British Columbia,      Bachelor's degree,0,884.47
+2007,Ontario,   High school graduate,1,887.8
+2007,Ontario,   High school graduate,0,682.8
+2007,Ontario,      Bachelor's degree,1,1206.61
+2007,Ontario,      Bachelor's degree,0,1003.12
+2007,British Columbia,   High school graduate,1,919.03
+2007,British Columbia,   High school graduate,0,686.79
+2007,British Columbia,      Bachelor's degree,1,1085.35
+2007,British Columbia,      Bachelor's degree,0,916.59
+2008,Ontario,   High school graduate,1,916.15
+2008,Ontario,   High school graduate,0,699.52
+2008,Ontario,      Bachelor's degree,1,1247.15
+2008,Ontario,      Bachelor's degree,0,1043.41
+2008,British Columbia,   High school graduate,1,952.13
+2008,British Columbia,   High school graduate,0,707.48
+2008,British Columbia,      Bachelor's degree,1,1146.79
+2008,British Columbia,      Bachelor's degree,0,931.94
+2009,Ontario,   High school graduate,1,928.19
+2009,Ontario,   High school graduate,0,724.45
+2009,Ontario,      Bachelor's degree,1,1282.46
+2009,Ontario,      Bachelor's degree,0,1091.98
+2009,British Columbia,   High school graduate,1,976.43
+2009,British Columbia,   High school graduate,0,709.79
+2009,British Columbia,      Bachelor's degree,1,1187.19
+2009,British Columbia,      Bachelor's degree,0,997.42
+2010,Ontario,   High school graduate,1,947.69
+2010,Ontario,   High school graduate,0,742.38
+2010,Ontario,      Bachelor's degree,1,1278.16
+2010,Ontario,      Bachelor's degree,0,1080.68
+2010,British Columbia,   High school graduate,1,1030.11
+2010,British Columbia,   High school graduate,0,731.15
+2010,British Columbia,      Bachelor's degree,1,1207.47
+2010,British Columbia,      Bachelor's degree,0,989.39
+2011,Ontario,   High school graduate,1,963.46
+2011,Ontario,   High school graduate,0,758.46
+2011,Ontario,      Bachelor's degree,1,1302.76
+2011,Ontario,      Bachelor's degree,0,1133.34
+2011,British Columbia,   High school graduate,1,1014.1
+2011,British Columbia,   High school graduate,0,760.13
+2011,British Columbia,      Bachelor's degree,1,1210.89
+2011,British Columbia,      Bachelor's degree,0,1011.54
+2012,Ontario,   High school graduate,1,981.74
+2012,Ontario,   High school graduate,0,761.16
+2012,Ontario,      Bachelor's degree,1,1339.81
+2012,Ontario,      Bachelor's degree,0,1125.25
+2012,British Columbia,   High school graduate,1,1018.69
+2012,British Columbia,   High school graduate,0,770.31
+2012,British Columbia,      Bachelor's degree,1,1236.08
+2012,British Columbia,      Bachelor's degree,0,1003.45
+2013,Ontario,   High school graduate,1,971.68
+2013,Ontario,   High school graduate,0,770.02
+2013,Ontario,      Bachelor's degree,1,1370.96
+2013,Ontario,      Bachelor's degree,0,1138.38
+2013,British Columbia,   High school graduate,1,1071.12
+2013,British Columbia,   High school graduate,0,789.38
+2013,British Columbia,      Bachelor's degree,1,1272.86
+2013,British Columbia,      Bachelor's degree,0,1036.53
+2014,Ontario,   High school graduate,1,980.89
+2014,Ontario,   High school graduate,0,793.12
+2014,Ontario,      Bachelor's degree,1,1357.7
+2014,Ontario,      Bachelor's degree,0,1164.94
+2014,British Columbia,   High school graduate,1,1063.27
+2014,British Columbia,   High school graduate,0,774.13
+2014,British Columbia,      Bachelor's degree,1,1272.84
+2014,British Columbia,      Bachelor's degree,0,1051.07
+2015,Ontario,   High school graduate,1,1017.5
+2015,Ontario,   High school graduate,0,806.61
+2015,Ontario,      Bachelor's degree,1,1409.37
+2015,Ontario,      Bachelor's degree,0,1175.22
+2015,British Columbia,   High school graduate,1,1109.49
+2015,British Columbia,   High school graduate,0,794.62
+2015,British Columbia,      Bachelor's degree,1,1304.9
+2015,British Columbia,      Bachelor's degree,0,1050.46
+2016,Ontario,   High school graduate,1,999.97
+2016,Ontario,   High school graduate,0,807.99
+2016,Ontario,      Bachelor's degree,1,1424.96
+2016,Ontario,      Bachelor's degree,0,1204.91
+2016,British Columbia,   High school graduate,1,1124.12
+2016,British Columbia,   High school graduate,0,831.03
+2016,British Columbia,      Bachelor's degree,1,1322.49
+2016,British Columbia,      Bachelor's degree,0,1085.14
+2017,Ontario,   High school graduate,1,1024.77
+2017,Ontario,   High school graduate,0,814.31
+2017,Ontario,      Bachelor's degree,1,1443.25
+2017,Ontario,      Bachelor's degree,0,1212.87
+2017,British Columbia,   High school graduate,1,1137.54
+2017,British Columbia,   High school graduate,0,832.96
+2017,British Columbia,      Bachelor's degree,1,1364.82
+2017,British Columbia,      Bachelor's degree,0,1076.52
+2018,Ontario,   High school graduate,1,1062.57
+2018,Ontario,   High school graduate,0,858.44
+2018,Ontario,      Bachelor's degree,1,1450.88
+2018,Ontario,      Bachelor's degree,0,1222.97
+2018,British Columbia,   High school graduate,1,1175
+2018,British Columbia,   High school graduate,0,855.91
+2018,British Columbia,      Bachelor's degree,1,1390.12
+2018,British Columbia,      Bachelor's degree,0,1133.58
+2019,Ontario,   High school graduate,1,1086.62
+2019,Ontario,   High school graduate,0,869.63
+2019,Ontario,      Bachelor's degree,1,1478.55
+2019,Ontario,      Bachelor's degree,0,1277.57
+2019,British Columbia,   High school graduate,1,1185.63
+2019,British Columbia,   High school graduate,0,899.15
+2019,British Columbia,      Bachelor's degree,1,1408.14
+2019,British Columbia,      Bachelor's degree,0,1130.97
