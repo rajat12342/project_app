@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
-import statsmodels.api as sm
+#import statsmodels.api as sm
+import statsmodels.tsa.statespace.api as sm
 import numpy as np
 
 def load_model():
